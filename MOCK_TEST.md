@@ -80,3 +80,7 @@ Resources can be moved between resurce groups and subscriptions
 Disaster Recover Plans are asosciated with Business Continuity and Distaster REcocvery plans
 
 Azure blob storage good for video files, images hosted to browser, log files, backup and archive data, storing for distributed access
+
+Vnet peering allows organizations to connect multiple vnets making them appear as 1 network.  Traffic is routed over MS provate networks.
+
+IoT edge moves cloud analytics and business logic to devices. specific IoT runtime to run on devices.
