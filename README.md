@@ -61,7 +61,27 @@ Regions are grouped into regional pairs upgrade in sequence
 ## Availability zones
 + Physically separate locations within a region
 + 1 or more DCs within an availability zone
-+ >= 3 availability zones within a region
++ \>= 3 availability zones within a region
 + Low latency (2ms) networking between availability zones within a region
 
-## 
+*Zonal services*
+e.g. VMs explicitly deployed to Availability Zones
+
+*Zone Redundant services *
+Define them as redundant and AZ deals with the rest
+
+## Resource Groups
+Container of resources
+Delete all contained resources together
+tag for billing
+Redeployable with remplates (ARM)
+
+## Subscription
+Highest level azure resource
+Has a max size
+Is a billing unit for invoicing
+
+Free trial, Pay as go, PAYG Dev/Test, Enterprise Agreement
+
+## Management Groups
+
