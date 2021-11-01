@@ -45,5 +45,38 @@ Azure trus center provide regulatory compliance information
 Azure firewall stateful with High Availability and scalability - integrates with azure monitor
 
 Azure Network Security Groups filter network traffic based on rules - source:dest:port:protocol
+Azure firewall can also filter network traffic
 
+Azure cost management and billing helps manage billing, analyze costs, manage budgets monitor and control spending
 
+Azure pricing calculator estimates costs of azure product 
+Azure TCO estimates cost savings by migrating
+
+Azure machine learning studio tool to deploy drag and drop predictive analytics solutions
+
+Resource groups can be deployed, deleted, permissioned as a group
+
+Azure page blobs store random access files up to 8TB
+
+Azure Service health shows incidents and planned maintenance
+
+Azure Sentinel provides a birds eye view across an enterprise.  Stops threats before they cause harm
+
+Seamless SSO autologin from different devices
+
+MS Trust Center for data privacy policies
+
+Azure policy create rules to stop resources in wrong locations, consistent tag usage, can audit existing systems and settings.  generates compliance status
+
+Federal, state and other US government clients are subject to eligibility checks.
+
+RTO - recovery time objective (maximum acceptable time application unavailable after incident) and RPO recovery point objective (max duration data loss acceptable)
+
+Tags applied to a resource group are NOT inherited by the resources within that group
+
+billing ownership can be transferred on subscriptions
+Resources can be moved between resurce groups and subscriptions
+
+Disaster Recover Plans are asosciated with Business Continuity and Distaster REcocvery plans
+
+Azure blob storage good for video files, images hosted to browser, log files, backup and archive data, storing for distributed access
