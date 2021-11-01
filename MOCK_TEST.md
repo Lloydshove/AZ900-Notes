@@ -84,3 +84,5 @@ Azure blob storage good for video files, images hosted to browser, log files, ba
 Vnet peering allows organizations to connect multiple vnets making them appear as 1 network.  Traffic is routed over MS provate networks.
 
 IoT edge moves cloud analytics and business logic to devices. specific IoT runtime to run on devices.
+
+Azure status - azure service health, azure status azure resource health
