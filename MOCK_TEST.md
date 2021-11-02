@@ -86,3 +86,33 @@ Vnet peering allows organizations to connect multiple vnets making them appear a
 IoT edge moves cloud analytics and business logic to devices. specific IoT runtime to run on devices.
 
 Azure status - azure service health, azure status azure resource health
+
+Customer is responsible for any non public auth credentials
+
+ 
+
+Typically each lob has a subscription and each application in that subscription has a resource group (not case at UBS)
+
+If SLA breached MS automatically applies credit to account
+
+ 
+
+Seamless sso can be combined with pass through authentication sign in or password hash sync
+
+ 
+
+Azure App Service HTTP service for hosting web applications REST APIs and mobile backends.  Provides security load balancing, scaling,
+
+ 
+
+Azure blueprint is made up of artifacts.  Artifacts can be Resource Groups (subscription level), ARM templates (sub, res group level), Policy Assignments(sub, res group level), Role assignments(sub, res group level)
+
+ 
+
+Azure files – fully managed files in the cloud.  Mounted like SMB onto VMs          
+
+Azure Blob – Object store for storing vast amounts of unstructured data
+
+Azure data migration services – your DB migrate into azure
+
+ 
